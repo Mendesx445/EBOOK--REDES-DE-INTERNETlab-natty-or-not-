@@ -11,6 +11,7 @@ GEMINI
 CRIEI ATRAVÉS DE REFERÊNCIAS AO MEU TRABALHO, A ONDE ATUALMENTE EM UM PROVEDOR DE INTERNET NO NORTE DO BRASIL.
 
 ## 🚀 Resultados
+[Redes de Computadores Fundamentos e Aplicações.pdf](https://github.com/user-attachments/files/23666951/Redes.de.Computadores.Fundamentos.e.Aplicacoes.pdf)
 
 
 ## 💭 Reflexão (Opcional)
